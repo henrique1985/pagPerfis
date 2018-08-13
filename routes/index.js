@@ -22,6 +22,19 @@ const bios = {
     quote: 'Governo das pessoas, pelas pessoas, para as pessoas, nunca deixará de existir na Terra.',
     highlights: ['Aprovou a Lei da Propriedade Rural', 'Emitiu a Proclamação de Emancipação, que levou à abolição da escravatura nos EUA', 'Liderou a União à vitória da Guerra Civil'],
 },
+
+  boca: {
+    name: 'Luis Boça',
+    role: 'Neto mimado',
+    birth: '1980',
+    death: '-',
+    photo: '/images/boca.png',
+    background: 'Luís Boça é natural de São Paulo, de onde, aos seis anos de idade, foi trocado por dois bodes velhos para ser criado pela avó, Dona Lourdes Boça. A velhinha sempre tratou ele muito bem, pois ela é uma puta guerreira. Sempre alimentou ele com Leite com pera e muito ovo maltino.',
+     quote: 'NARIGUDO NÃO, MEU! NARIGUDO NÃO!',
+    highlights: ['Boça fundou o Clube dos Minigameiros. Contudo, mesmo oferecendo cartões de clientes preferenciais do Mister Lanches não teve sucesso em conseguir outra pessoa além dele.'],
+},
+
+
 };
 
 /* GET home page. */
